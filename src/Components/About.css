@@ -1,0 +1,19 @@
+.About-header{
+    width: 800px;
+    margin: 100px auto;
+    text-align: center;
+
+}
+.About-p{
+    width: 550px;
+    font-size: 20px;
+    margin: 10px auto;
+    text-align: center;
+}
+footer{
+    position: absolute;
+    bottom: 0;
+    background-color: aquamarine;
+    text-align: center;
+    width: 100%;
+}
